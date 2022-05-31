@@ -1,0 +1,9 @@
+shaders = "1"
+
+shader0 = "shaders/retrotails_crt_lowend.slang"
+filter_linear0 = "true"
+scale_type0 = "viewport"
+scale0 = "1.0"
+srgb_framebuffer0 = "true"
+
+

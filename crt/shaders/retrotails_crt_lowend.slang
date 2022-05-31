@@ -5,9 +5,6 @@ layout(push_constant) uniform Push
 	vec4 SourceSize;
 	vec4 OriginalSize;
 	vec4 OutputSize;
-	float BRIGHTBOOST;
-	float INTENSITY;
-	float SCANTHICK;
 } params;
 
 
